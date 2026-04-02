@@ -1,0 +1,28 @@
+# Build artifacts
+obj/
+project/obj/
+Export/
+*.pdb
+*.exp
+*.lib
+
+# hxcpp hash files
+*.hash
+
+# Native library sources — fetched by setup scripts / git submodules
+project/lib/ogg/
+project/lib/opus/
+project/lib/opusfile/
+
+# Compiled NDLLs (regenerated per-platform by setup)
+ndll/
+
+# Sample build outputs
+samples/*/Export/
+samples/*/bin/
+
+# Editor
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db

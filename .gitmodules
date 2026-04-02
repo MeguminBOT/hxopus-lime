@@ -1,0 +1,14 @@
+[submodule "project/lib/opus"]
+	path = project/lib/opus
+	url = https://github.com/xiph/opus.git
+	shallow = true
+
+[submodule "project/lib/opusfile"]
+	path = project/lib/opusfile
+	url = https://github.com/xiph/opusfile.git
+	shallow = true
+
+[submodule "project/lib/ogg"]
+	path = project/lib/ogg
+	url = https://github.com/xiph/ogg.git
+	shallow = true

@@ -1,0 +1,13 @@
+{
+	"name": "hxopus-lime",
+	"url": "https://github.com/MeguminBOT/hxopus-lime",
+	"license": "MIT",
+	"tags": ["audio", "opus", "lime", "openal", "cpp"],
+	"description": "Opus audio for Haxe/lime — CPP via libopusfile + OpenAL.",
+	"version": "0.0.1",
+	"releasenote": "Initial experimental release. Not yet ready for production use.",
+	"contributors": [],
+	"dependencies": {
+		"lime": ""
+	}
+}
